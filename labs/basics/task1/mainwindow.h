@@ -35,7 +35,7 @@ private slots:
     void onCelldoubleClicked(QModelIndex ind);
 
 private:
-    Ui::MainWindow *ui;
+    //Ui::MainWindow *ui;
     QSpinBox *box;
     QTableWidget *list;
     std::vector<Ticket> tickets;

@@ -34,7 +34,7 @@ private slots:
 private:
     void updateBars();
 
-    Ui::MainWindow *ui;
+    //Ui::MainWindow *ui;
     QPushButton *imageButton;
     QProgressBar *progressBar;
     QLabel *lab_lvl;
